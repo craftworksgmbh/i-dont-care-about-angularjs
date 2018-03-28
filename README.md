@@ -3,23 +3,26 @@
 This chrome extension filters out AngularJS Google search results.
 It does it by appending "-AngularJS" to every Google query.
 
-The AngularJS Button turns the filter on or off. The red bar at the top indicates if the filter is activated.
+The AngularJS Button in the Bar underneath the searchbar turns the filter on or off. The red bar at the top indicates if the filter is activated.
 
-Note: per default it works for 'at' Top-Level-Domains
+Note: per default it works for `at` Top-Level-Domains
 
-# How to Install
+## How to Install
 
 1. Download the source code
 2. Unzip it and put it in a folder, where you won't accidentally delete it.
-3. Go to the url (chrome:extensions)[chrome:extensions] in Google Chrome
+3. Go to the url `chrome://extensions` in Google Chrome
 4. Activate Developer Mode
-5. Click 'Load Unpacked' and choose the according folder, where you have out the source code.
+5. Click `Load Unpacked` and choose the according folder in which you saved the source code earlier.
 
-# Modifiy Top-Level-Domain (TLD)
+## Modifiy Top-Level-Domain (TLD)
 
-go to `manifest.js` and `background.js `and change every TLD to your desired TLD (like com or de)
+Go to `manifest.js` and `background.js `and change every occurring `at` to your desired TLD.
 
-# TODO / Roadmap
+## TODO
 
-- check if readme is right and looks fine
+- add icons
+ 
+## Roadmap
+
 - allow configurable TLD
