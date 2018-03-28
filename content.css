@@ -1,0 +1,16 @@
+.idcaajs {
+    padding: 4px 15px;
+}
+
+.idcaajs:hover {
+    color: #222;
+    cursor: pointer;
+}
+
+.idcaajs.active {
+    text-decoration: line-through;
+}
+
+.idcaajs-indicator {
+    border-top: solid 2px #e23131;
+}
