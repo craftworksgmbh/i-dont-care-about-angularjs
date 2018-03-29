@@ -1,6 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
-    startUp();
-});
+startUp();
 
 function startUp() {
     chrome.storage.local.get(['isActive'], function(result) {
