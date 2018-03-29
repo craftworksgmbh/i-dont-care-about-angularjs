@@ -18,10 +18,6 @@ Note: per default it works for `at` Top-Level-Domains
 ## Modifiy Top-Level-Domain (TLD)
 
 Go to `manifest.js` and `background.js `and change every occurring `at` to your desired TLD.
-
-## TODO
-
-- add icons
  
 ## Roadmap
 
