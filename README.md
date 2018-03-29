@@ -3,7 +3,7 @@
 This chrome extension filters out AngularJS Google search results.
 It does it by appending "-AngularJS" to every Google query.
 
-The AngularJS Button in the Bar underneath the searchbar turns the filter on or off. The red bar at the top indicates if the filter is activated.
+The AngularJS Button underneath the searchbar turns the filter on or off. The red bar at the top indicates if the filter is activated.
 
 Note: per default the extension operates on `at` Top-Level-Domains
 
