@@ -5,7 +5,7 @@ It does it by appending "-AngularJS" to every Google query.
 
 The AngularJS Button in the Bar underneath the searchbar turns the filter on or off. The red bar at the top indicates if the filter is activated.
 
-Note: per default it works for `at` Top-Level-Domains
+Note: per default the extension operates on `at` Top-Level-Domains
 
 ## How to Install
 
@@ -17,8 +17,9 @@ Note: per default it works for `at` Top-Level-Domains
 
 ## Modifiy Top-Level-Domain (TLD)
 
-Go to `manifest.js` and `background.js `and change every occurring `at` to your desired TLD.
+Go to `manifest.js` and `background.js` and change every occurring `at` to your desired TLD.
  
 ## Roadmap
 
+- suppress flickering effect
 - allow configurable TLD
