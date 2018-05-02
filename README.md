@@ -23,3 +23,7 @@ Go to `manifest.js` and `background.js` and change every occurring `at` to your 
 
 - suppress flickering effect
 - allow configurable TLD
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
