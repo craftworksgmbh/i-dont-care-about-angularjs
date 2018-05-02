@@ -9,7 +9,7 @@ Note: per default the extension operates on `at` Top-Level-Domains
 
 ## How to Install
 
-1. Download the source code
+1. Download the source code - see [here](/releases)
 2. Unzip it and put it in a folder, where you won't accidentally delete it.
 3. Go to the url `chrome://extensions` in Google Chrome
 4. Activate Developer Mode
